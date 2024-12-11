@@ -1,9 +1,9 @@
-1. What was the effect of moving the gate from level 30 to level 40 on 1-day retention rates?
+1. What was the effect of moving the gate from level 30 to level 40 on 1-day retention rates?\
    Moving from 30 to 40 decreased the retention rates slightly. This is shown in my charts, 30 hovers around 0.45 whereas 40 hovers around 0.43
 
-2. What was the effect of moving the gate from level 30 to level 40 on 7-day retention rates?
+2. What was the effect of moving the gate from level 30 to level 40 on 7-day retention rates?\
    Again, moving from 30 to 40 decreased the retention rates slightly. This is shown in my charts, 30 hovers around 0.19 whereas 40 hovers around 0.18
-3. What was the biggest challenge for you in completing this assignment?
+3. What was the biggest challenge for you in completing this assignment?\
    Figuring out the distributions and making the priors was very difficult for me.
 
 Initially I was making relative priors in the sense that I was trying to express "I think group 30 will have higher/lower retention rates than group 40".
